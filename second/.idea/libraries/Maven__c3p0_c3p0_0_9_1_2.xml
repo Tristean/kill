@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Maven: c3p0:c3p0:0.9.1.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/c3p0/c3p0/0.9.1.2/c3p0-0.9.1.2.jar!/" />
+      <root url="jar://E:/SecondTom/apache-tomcat-8.5.15/lib/jsp-api.jar!/" />
+      <root url="jar://E:/SecondTom/apache-tomcat-8.5.15/lib/servlet-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
